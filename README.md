@@ -3,6 +3,8 @@ Project Euler problems I solved between 2010 and 2012
 
 I used Pytohn2.x rather than Python3.x
 
+![Project Euler](https://projecteuler.net/profile/ksnt.png)
+
 # The Project Page
 
 https://projecteuler.net/
